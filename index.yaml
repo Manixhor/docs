@@ -3,6 +3,15 @@ entries:
   docs:
   - apiVersion: v2
     appVersion: latest
+    created: "2026-09-25T16:56:08.996540105Z"
+    digest: a374c346eb6e94f3b589c3fbac6c827841bc8d146f68f6820ddb269484428263
+    name: docs
+    type: application
+    urls:
+    - https://Manixhor.github.io/docs/docs-6.0.0-alpha.2.tgz
+    version: 6.0.0-alpha.2
+  - apiVersion: v2
+    appVersion: latest
     created: "2026-09-15T11:54:46.748182964Z"
     digest: 805578ee3edf92ec14c6815b9010a2dc1cd2c149c3a7496d02cd97f38a0a950e
     name: docs
@@ -658,4 +667,4 @@ entries:
     urls:
     - https://suitenumerique.github.io/docs/docs-0.0.1.tgz
     version: 0.0.1
-generated: "2026-09-15T11:54:46.7460833Z"
+generated: "2026-09-25T16:56:08.992908629Z"
